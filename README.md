@@ -9,10 +9,10 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 ## Informações do trabalho
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Bruno Henrique
+- Matricula:868113
+- Proposta de projeto escolhida:expositoria
+- Breve descrição sobre seu projeto:jogo de gow  e mitologia em geral
 
 **Print da tela com a implementação**
 
@@ -20,4 +20,4 @@ Sugerimos o uso das seguintes ferramentas acessíveis: [FullCalendar](https://fu
 
 <<  COLOQUE A IMAGEM TELA 1 AQUI >>
 
-<<  COLOQUE A IMAGEM TELA 2 AQUI >>
+<<  COLOQUE A IMAGEM TELA 2 AQUI >>![alt text](image.png) era para mostrar Deuses por dominio, mas só consegui fazer o grafico as informações eu quebrei a cabeça mas não consegui 
