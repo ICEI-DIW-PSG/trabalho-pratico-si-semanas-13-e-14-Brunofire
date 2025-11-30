@@ -1,18 +1,47 @@
 {
-  "usuarios": [
+  "deuses": [
     {
-      "id": "187cb7e5-e097-4224-8bc7-b610c855e2b1",
-      "login": "admin",
-      "senha": "123",
-      "nome": "Administrador do Sistema",
-      "email": "admin@abc.com"
+      "id": "0",
+      "titulo": "Poseidon",
+      "figura_principal": "img/poseidon.png",
+      "destaque": true,
+      "resumo": "Deus dos Mares, Terremotos e Cavalos. Conhecido por seu temperamento instável.",
+      "informacoes": {
+        "Nome Grego": "Ποσειδῶν",
+        "Domínio": "Mares, Oceanos, Terremotos, Tempestades, Cavalos",
+        "Símbolos": "Tridente, Golfinho, Cavalo",
+        "Pai": "Cronos",
+        "Mãe": "Reia"
+      },
+      "detalhes_completos": "Poseidon era um dos Doze Olimpianos e seu palácio ficava no fundo do oceano.",
+      "imagens_secundarias": [
+        "img/poseidon.png",
+        "img/hades.jpg",
+        "img/kratos.jpg"
+      ]
     },
     {
-      "id": "ec37c83d-4b7f-458d-9e10-3fda7d37cd3e",
-      "login": "user",
-      "senha": "123",
-      "nome": "Usuario Comum",
-      "email": "user@abc.com"
+      "id": "1",
+      "titulo": "Zeus",
+      "figura_principal": "img/zeus.jpg",
+      "resumo": "Rei dos deuses e senhor dos céus.",
+      "detalhes_completos": "Zeus governa o Olimpo e controla trovões.",
+      "dominio": "Céu"
+    },
+    {
+      "id": "2",
+      "titulo": "Hades",
+      "figura_principal": "img/hades.jpg",
+      "resumo": "Deus do Submundo e da Riqueza.",
+      "detalhes_completos": "Hades governa o reino dos mortos."
+      ,"dominio": "Mar"
+    },
+    {
+      "titulo": "adsadsa",
+      "resumo": "dsada",
+      "figura_principal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmA4w36KHQ4e87PgI_bM3S2xV5mVmLXGDjEidDSVbm8fQl57_k-IWMfrt9KDsVBE81QH1qVDdT251vdJsSgsyXLM3l8Gc4ZmCl8BAymzYMg&s=10",
+      "detalhes_completos": "sdadsdasa",
+      "id": "rzvc1ai"
     }
   ]
 }
