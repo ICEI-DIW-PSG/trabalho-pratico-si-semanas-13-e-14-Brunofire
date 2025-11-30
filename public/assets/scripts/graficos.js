@@ -1,4 +1,4 @@
-const apiURL = "http://localhost:3000/deuses";
+const apiURL = "http://localhost:3001/deuses";
 
 async function carregarGrafico() {
     const resposta = await fetch(apiURL);

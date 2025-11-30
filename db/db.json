@@ -8,11 +8,11 @@
       "resumo": "Deus dos Mares, Terremotos e Cavalos. Conhecido por seu temperamento instável.",
       "informacoes": {
         "Nome Grego": "Ποσειδῶν",
-        "Domínio": "Mares, Oceanos, Terremotos, Tempestades, Cavalos",
         "Símbolos": "Tridente, Golfinho, Cavalo",
         "Pai": "Cronos",
         "Mãe": "Reia"
       },
+       "dominio": "Mares, Oceanos, Terremotos, Tempestades, Cavalos",
       "detalhes_completos": "Poseidon era um dos Doze Olimpianos e seu palácio ficava no fundo do oceano.",
       "imagens_secundarias": [
         "img/poseidon.png",
@@ -34,14 +34,15 @@
       "figura_principal": "img/hades.jpg",
       "resumo": "Deus do Submundo e da Riqueza.",
       "detalhes_completos": "Hades governa o reino dos mortos."
-      ,"dominio": "Mar"
+      ,"dominio": "Inferno"
     },
     {
       "titulo": "adsadsa",
       "resumo": "dsada",
       "figura_principal": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsmA4w36KHQ4e87PgI_bM3S2xV5mVmLXGDjEidDSVbm8fQl57_k-IWMfrt9KDsVBE81QH1qVDdT251vdJsSgsyXLM3l8Gc4ZmCl8BAymzYMg&s=10",
       "detalhes_completos": "sdadsdasa",
-      "id": "rzvc1ai"
+      "id": "rzvc1ai",
+      "dominio": "Indefinido"
     }
   ]
 }
